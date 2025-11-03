@@ -92,12 +92,3 @@ AWS CloudWatch + SNS
 
 GitHub Actions (CI/CD)
 
-🖼️ Mimarinin Görseli
-
-🧾 Notlar
-
-.env dosyası .gitignore içinde gizlenmiştir.
-
-ALB health check /health endpoint’ine bakar.
-
-CloudWatch alarmları manuel veya otomatik tetikleme için kullanılabilir.
